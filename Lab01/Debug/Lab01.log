@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mattm_000\documents\visual studio 2015\projects\cs1410\lab01\lab01\source.cpp(31): warning C4129: 'W': unrecognized character escape sequence
+  Lab01.vcxproj -> C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1410\Lab01\Debug\Lab01.exe
+  Lab01.vcxproj -> C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS1410\Lab01\Debug\Lab01.pdb (Partial PDB)
